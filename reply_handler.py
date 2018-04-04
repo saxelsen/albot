@@ -4,7 +4,7 @@ from replies import eightball_replies
 import json
 import time
 
-random.seed(1234)
+# random.seed(1234)
 
 QUESTION_REGEX = re.compile(r'.+\?')
 
